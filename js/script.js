@@ -10,5 +10,7 @@ const root = new Vue({
         stringa : "Vue Hello",
 
         immagine: "https://picsum.photos/200/300",
+
+        altImg : "#"
     }
 })
